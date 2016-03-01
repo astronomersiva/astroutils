@@ -44,10 +44,10 @@ The output
 
     python darksky.py --colorize --splitmonths  2016 13.0 80.0 4
 
-List for the 2016, Location Chennai 80E 13N and minimum dark period of 4 hours. Also colorise weekends and split output by months.
+List for the year 2016, Location Chennai 80E 13N and minimum dark period of 4 hours. Also colorise weekends and split output by months.
 
 
     python darksky.py --colorize --splitmonths --weekends 2016 13.0 80.0 4
 
-List for the 2016, Location Chennai 80E 13N, weekends only and minimum dark period of 4 hours. Also colorise weekends and split output by months.
+List for the year 2016, Location Chennai 80E 13N, weekends only and minimum dark period of 4 hours. Also colorise weekends and split output by months.
 
